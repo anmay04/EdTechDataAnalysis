@@ -18,6 +18,9 @@ This analysis helps:
 - Align with learner preferences
 - Highlight top-performing instructors
 
+Here we have also achieved project aims as mentioned in file below
+[📄 Problem Statements(PDF)](./Project%20Problem%20Statement.pdf)
+
 ---
 
 ## 📌 Key Business Objectives
