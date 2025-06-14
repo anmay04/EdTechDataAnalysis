@@ -2,7 +2,8 @@
 
 Welcome to the **Online Course Analysis** project—a dynamic, category-wise dashboard designed to empower EdTech companies with rich insights derived from real-world online course data. This project uncovers trends in learner behavior, course engagement, and instructor performance to drive strategic decisions.
 
-[📄 View Full Project Report (PDF)](./project-report.pdf)
+[📄 View Full Project Report (PDF)](./assets/EdTech_Analysis.pdf)
+[📄 View on Google Drive](https://drive.google.com/file/d/1RRPPtavUNZwMfkzuXH-QDjw_NEBUXVPr/view?usp=sharing)
 
 ---
 
